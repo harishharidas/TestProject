@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>My Website</title>
+<title>My Beautiful Website</title>
 </head>
 <body>
-<h1>This is a Test Web : Commit 2</h1>
+<h1>This is a Test Web : Commit 3</h1>
 </body>
 </html>
